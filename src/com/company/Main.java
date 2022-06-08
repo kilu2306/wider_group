@@ -6,5 +6,6 @@ public class Main {
         System.out.println("kinjal");
         System.out.println("kinjal1");
         System.out.println("kinjal2");
+        System.out.println("megha");
     }
 }
